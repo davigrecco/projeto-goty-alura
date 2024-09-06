@@ -1,5 +1,7 @@
 ### **GOTY 2024 - Seu guia para o Jogo do Ano! - Imersão Dev com Google Gemini** 
 
+https://vercel.com/davi-greccos-projects/projeto-goty-alura
+
 **O que é isso?**
 
 É um site simples e divertido para você descobrir quais foram os jogos mais incríveis de 2024. Criei essa pequena aplicação para ajudar a galera a organizar seus pensamentos e compartilhar suas opiniões sobre os melhores jogos do ano. 
