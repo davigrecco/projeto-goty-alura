@@ -1,4 +1,4 @@
-### **GOTY 2024 - Seu guia para o Jogo do Ano!** 
+### **GOTY 2024 - Seu guia para o Jogo do Ano! - Imersão Dev com Google Gemini** 
 
 **O que é isso?**
 
